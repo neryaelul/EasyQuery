@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dosis">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Racing%20Sans%20One">
+    <link rel='stylesheet' type='text/css' media='screen' href='assets/style.css'>
+    <script src='assets/config.js'></script>
+    <script src='assets/main.js'></script>
+</head>
+<body>
+        
+    <div class="base">
+        <div class="container">
+            <img src="assets/logo.svg" width="200px">
+
+        </div>
+        
+        
+        <div class="container">
+
+    
+
+        
+    
+        <div id="showConditions"></div>
+        <button id="newAll" name="newMainConditionButton" class="button-6 newMainConditionButton" data-conditiontype="new">
+            New
+        </button>
+
+        <div class="conditionButton"  style="display: none;">
+            <button name="newMainConditionButton" class="button-6 newMainConditionButton" data-conditiontype="AND">
+                + AND
+            </button>
+            <button name="newMainConditionButton" class="button-6 newMainConditionButton" data-conditiontype="OR">
+                + OR
+            </button>
+        </div>
+   
+    <br /><br />
+    <button name="new" class="button-36 new" data-typeval="sql">
+            SQL It!
+        </button>
+        <!-- <button name="new" class="button-36 new">
+            Add to Data Extension
+        </button> -->
+    <textarea id="displayRes" style="display: none;"></textarea>
+
+</body>
+</html>
