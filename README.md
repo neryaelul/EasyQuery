@@ -7,6 +7,8 @@ For company wants to build an audience for Marketing Campaigns, Reports and more
 ```
 
 ![easyquery gif](https://github.com/neryaelul/EasyQuery/blob/7d7c96551df57314e438552d381d29eef1d7b45c/assets/eq.gif?raw=true)
+
+## User guide
 * edit this config.js file to build your template
   - table_name - Name of your table,
   - condition_fields - Using to make a condition
