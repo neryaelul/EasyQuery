@@ -1,5 +1,10 @@
 # easyquery
 ## UI for Make your SQL Query with JS  
+### Focus on marketing without knowing SQL
+```
+This project app for making SQL queries with UI and customized for your needs also integrates with other platforms, 
+For company wants to build an audience for Marketing Campaigns without need the SQL knowledge
+```
 
 ![easyquery gif](https://github.com/neryaelul/EasyQuery/blob/7d7c96551df57314e438552d381d29eef1d7b45c/assets/eq.gif?raw=true)
 * edit this config.js file to build your template
