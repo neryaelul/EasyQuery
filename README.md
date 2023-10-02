@@ -2,11 +2,11 @@
 ## UI for Make your SQL Query with JS  
 
 ![easyquery gif](https://github.com/neryaelul/EasyQuery/blob/7d7c96551df57314e438552d381d29eef1d7b45c/assets/eq.gif?raw=true)
-edit this config.js file to build your template
-table_name - Name of your table,
-condition_fields - Using to make a condition
-related_field - The field to connect to another table 
-related_table_to - The other table name
+- edit this config.js file to build your template
+  - table_name - Name of your table,
+  - condition_fields - Using to make a condition
+  - related_field - The field to connect to another table 
+  - related_table_to - The other table name
 
 related_field_to - The field name to another table connected to
 ```
