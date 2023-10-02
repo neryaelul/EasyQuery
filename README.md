@@ -7,8 +7,7 @@
   - condition_fields - Using to make a condition
   - related_field - The field to connect to another table 
   - related_table_to - The other table name
-
-related_field_to - The field name to another table connected to
+  - related_field_to - The field name to another table connected to
 ```
 const db = [
   {
