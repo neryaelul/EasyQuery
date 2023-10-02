@@ -15,7 +15,7 @@ For company wants to build an audience for Marketing Campaigns, Reports and more
   - related_field - The field to connect to another table 
   - related_table_to - The other table name
   - related_field_to - The field name to another table connected to
-## Config File
+## config.js
 ```
 const db = [
   {
