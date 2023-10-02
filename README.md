@@ -1,10 +1,12 @@
 # easyquery
 ## UI for Make your SQL Query with JS  
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7114548850320642048" height="640" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 edit this config.js file to build your template
 table_name - Name of your table,
 condition_fields - Using to make a condition
 related_field - The field to connect to another table 
 related_table_to - The other table name
+
 related_field_to - The field name to another table connected to
 ```
 const db = [
