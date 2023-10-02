@@ -1,6 +1,6 @@
 # easyquery
 ## UI for Make your SQL Query with JS  
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7114548850320642048" height="640" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7114548850320642048?compact=1))
 edit this config.js file to build your template
 table_name - Name of your table,
 condition_fields - Using to make a condition
